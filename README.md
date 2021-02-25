@@ -7,4 +7,4 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on MEAN Stack & ionic
 - 🌱 I’m currently learning Flutter, Dart
 - 💬 Ask me about MEAN Stack & IONIC
-- 📫 How to reach me: http://jsdevlife.in/ 
+- 📫 How to reach me: https://jsdevlife.in/ 
